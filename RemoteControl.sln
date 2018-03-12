@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControl.Client", "RemoteControl.Client\RemoteControl.Client.csproj", "{C7C14CF4-8D3C-49CE-9014-5A7FF4099201}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControl.Client", "src\RemoteControl.Client\RemoteControl.Client.csproj", "{C7C14CF4-8D3C-49CE-9014-5A7FF4099201}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
